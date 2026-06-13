@@ -1,16 +1,22 @@
-## Hi there 👋
+# hi, im ibrahim.
 
-<!--
-**ibrahimjohar/ibrahimjohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI undergrad at FAST-NUCES Karachi. I work mostly on deep learning, CV & NLP - currently focused on vision-language models for low-resource languages.
 
-Here are some ideas to get you started:
+```text
+~ currently     fine-tuning VLMs to be more reliable in Urdu
+~ learning      distributed training, model evaluation
+~ ask me about  PyTorch, computer vision, transformers
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1a1a1a?style=flat-square&logo=numpy&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
+
+### Links
+
+[LinkedIn](https://linkedin.com/in/ibrahimjohar) · [Email](mailto:ibrahimjoharfarooqi@gmail.com)
+
+![stats](https://github-readme-stats.vercel.app/api?username=ibrahimjohar&show_icons=true&hide_border=true&theme=transparent&hide=contribs,prs)
