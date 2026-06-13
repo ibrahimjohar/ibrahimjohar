@@ -1,4 +1,4 @@
-# ✮ hi, im ibrahim. ★
+# ✮☆ hi, im ibrahim. ✮☆
 
 AI undergrad at FAST-NUCES Karachi. I work mostly on deep learning, CV & NLP - currently focused on vision-language models for low-resource languages.
 
